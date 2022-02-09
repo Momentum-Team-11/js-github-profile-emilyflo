@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    color: slateblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: flex-end;
+    color: slateblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h2 {
+    text-align: center;
+}
